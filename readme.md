@@ -8,3 +8,5 @@ Primeira versão do readme para testarmos o fluxo do gitflow
 <button onclick="alert('waaaaz uuuuup')">Waaaz uuup</button>
 
 use this dont use that
+
+After thiago updated his branch 
